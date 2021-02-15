@@ -2,9 +2,9 @@
 
 return [
     'db' => [
-        'host' => 'localhost',
-        'dbname' => 'task_manager',
-        'user' => 'root',
-        'password' => '',
+        'host' => '*HOST*',
+        'dbname' => '*DBNAME*',
+        'user' => '*USER*',
+        'password' => '*PASSWORD*',
     ]
 ];
